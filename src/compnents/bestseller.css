@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.carousel-image {
+    width: 10px; /* Change this value as needed */
+    /* You can also add more styles if necessary */
+  }
+
+  .slick-slide{
+    width: 20px;
+    height: 100%;
+  }
+
+  .product-detail img{
+    width: 150px;
+  }
+

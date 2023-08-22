@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+span{
+    color: red;
+    text-decoration: line-through;
+}
+
+.single-product-image{
+    width: 200px;
+}
+
+h2{
+    color: green;
+}
+
+.product-container{
+    margin:3rem 2rem;
+}

@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    border: 2px solid black;
+    height: 100%;
+
+}
+
+.home{
+    margin: 3rem 3rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.home button{
+    border: 2px solid rgb(78, 78, 78);
+    border-radius: 5px;
+    background-color: white;
+    padding: 1rem 6rem;
+    transition: 0.5s;
+    overflow: hidden;
+}
+
+.home button:focus{
+    background-color: rgb(123, 28, 211);
+    color: white;
+    
+}
+
+.btn{
+    text-decoration: none;
+    color: black;
+    transform: 0.5s;
+}
+
+.product-deatail img{
+    width: 100px;
+}
+
+.feature{
+    display: flex;
+}
+
